@@ -1,2 +1,14 @@
-# Calculus-Final-Exam-Grades
-This project is a basic table layout for organizing student grades using HTML. It follows proper formatting, making the data easy to read and visually structured. Designed for simplicity, accessibility, and responsiveness.
+# Calculus Final Exam Grades 📊
+
+## Description
+A simple **HTML table** displaying Calculus final exam grades for students. The table includes **headers**, a **body with student data**, and a **footer** showing the average grade. Proper **semantic structure** ensures readability and accessibility.
+
+## Features
+- **Table format** with Last Name, First Name, and Grade columns.
+- **Proper `<thead>`, `<tbody>`, and `<tfoot>` sections** for clarity.
+- **Accessible design** following HTML standards.
+
+## Technologies Used
+- **HTML5** (structuring the table)
+- No dependencies—just clean and semantic HTML.
+
